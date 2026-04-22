@@ -1,4 +1,4 @@
-# Stateless RAG 🌲
+# Stateless RAG 
 
 > RAG without vector databases — uses tree-indexed PDF navigation + Gemini 2.0 Flash.
 
